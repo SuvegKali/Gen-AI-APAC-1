@@ -1,0 +1,6 @@
+{
+  "name": "Firestore User Summary Saver",
+  "description": "Secure script and utility to save, manage, and view user summaries in Cloud Firestore with multi-tenant isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
